@@ -1,0 +1,29 @@
+.pagination{
+  border: 2px solid black;
+  border-radius: 50px 50px 50px 50px;
+  padding: 10px;
+  margin: 10px;
+  background-color: #ffffff;
+  color: #ffffff;
+}
+.green{
+  border: 1px solid green;
+  background-color: green;
+  color: white;
+}
+
+.red{
+  border: 1px solid rgb(128, 0, 0);
+  background-color: rgb(228, 40, 40);
+  color: white;
+}
+
+.pageRed{
+  background-color: red;
+}
+.center{
+  text-align: center;
+  display: flex;
+  margin: auto;
+  justify-content: center;
+}
